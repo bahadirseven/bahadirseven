@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi There👋, I'm Bahadir</h1>  
-<h3 align="center">Student and developer from Turkey</h3>  
+<h3 align="center">Student at Eskisehir Osmangazi University and Developer from Turkey</h3>  
   
 - 🔭 I’m currently working on **RESTful Web Services and .NET Desktop Application**  
   
